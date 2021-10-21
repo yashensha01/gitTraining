@@ -83,6 +83,9 @@ git commit -m "message"
 git push --set-upstream origin <branchName>
 ```
 
+```git
+git commit -m"Title" -m"Description........."
+```
 
 
 
