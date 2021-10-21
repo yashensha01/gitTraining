@@ -71,7 +71,17 @@ git add -p <fileName>
 >1. github flow
 >2. gitflow
 
-
+```git
+git branch <branchName>
+git checkout test
+```
+*make some changes*
+```git
+git status
+git add <fileName>
+git commit -m "message"
+git push --set-upstream origin <branchName>
+```
 
 
 
