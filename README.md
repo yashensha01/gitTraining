@@ -29,6 +29,15 @@ git add -p <fileName>
 
 ## Branching Strategies
 
+## A Weitten convention
+### Agree on a Branching workflow in your team
+
+1. Git allows you to creatr branches - but it doesn't tell you how to use them!
+2. You need a written best practice of how work is ideally structured in your team - to avoid mistakes & collisions.
+3. It highly depends on your team / team size, on your project, and how you handle releases.
+4. It help you to on board new team members.
+
+
 
 
 
