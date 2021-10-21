@@ -27,6 +27,12 @@ git add -p <fileName>
     - What is the reason for the changes?
     - Is there anything to watch out for / anything particularly remarkable?
 
+## Branching Strategies
+
+
+
+
+
 
 
 
