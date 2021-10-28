@@ -2,8 +2,8 @@
 
 ## Perfect Commit I.
 
-1. Add the *right* changes.
-2. Compose a *good* commit message.
+1. Add the *right* changes!
+2. Compose a *good* commit message!
 
 >Golden rule of perfect commit **Only compine changes from the same topic**.
 
