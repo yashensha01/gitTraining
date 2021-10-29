@@ -4,7 +4,7 @@ rep. => generate token
 ### copy
 
 ```
-"Any_tocken"
+"Any_token"
 ```
 
 ## config account
@@ -26,6 +26,6 @@ git clone repo name
 ```bash
 git config --global credential.helper.cache
 git pull 
-<user_name> 
-<token>
+#userName 
+#token
 ```
