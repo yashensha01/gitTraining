@@ -1,20 +1,31 @@
-GIT -> Setting -> Dev setting -> Personal access token -> gen new token
+>GIT => Setting => Dev setting => Personal access token => gen new token
+rep. => generate token
 
-rep. -> generate token
+### copy
 
-copy
+```
+"Any_tocken"
+```
 
-"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"
-
+## config account
+```bash
 git config --global user.name ""
 git config --global user.email ""
-
+```
+## list configered userNames
+```bash
 git config -l
-
+```
+## clone any repo
+```bash
 git clone repo name
+```
 
+## don't need to enter username and token again and again.
 
+```bash
 git config --global credential.helper.cache
 git pull 
-user name 
-token
+<user_name> 
+<token>
+```
