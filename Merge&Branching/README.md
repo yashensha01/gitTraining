@@ -85,6 +85,12 @@ git checkout <main_branch>
 git push
 ```
 
+#### Git ignore 
+
+```
+vim .gitignore
+```
+
 ```git
 git commit -m"Title" -m"Description........."
 ```
