@@ -80,7 +80,9 @@ git checkout test
 git status
 git add <fileName>
 git commit -m "message"
-git push --set-upstream origin <branchName>
+git merge
+git checkout <main_branch>
+git push
 ```
 
 ```git
