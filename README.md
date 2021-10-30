@@ -3,6 +3,22 @@
 
 ## Get Started with git.
 
+### setting your username and email.
+
+>You need to set who you are *before* creating any commit.
+right author name and email associated to them.
+
+```bash
+git config --global user.name "Your Name"
+git config --global user.email mail@example.com
+```
+#### remove a global idensity
+
+```bash
+git config --global --remove-section user.name
+git config --global --remove-section user.email
+```
+
 ### git init
 
 This creates a hidden folder, `.git` , which contains the plumbing needed for Git to work.
@@ -69,4 +85,5 @@ it's time to push your codes to repo.
 ```bash
 git push -u origin master
 ```
+
 
