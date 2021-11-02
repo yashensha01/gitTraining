@@ -1,5 +1,5 @@
-> GIT => Setting => Dev setting => Personal access token => gen new token
-> rep. => generate token
+>GIT => Setting => Dev setting => Personal access token => gen new token
+>rep. => generate token
 
 ### copy
 
@@ -29,8 +29,11 @@ git clone repo_link
 ## don't need to enter username and token again and again.
 
 ```bash
-git config --global credential.helper.cache
+git config --global credential.helper cache
 git pull
 #userName
 #token
 ```
+
+
+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
