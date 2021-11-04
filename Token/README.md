@@ -34,6 +34,3 @@ git pull
 #userName
 #token
 ```
-
-
-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
